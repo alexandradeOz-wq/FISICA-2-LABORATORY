@@ -1,0 +1,33 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo general}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Fundamentos teóricos}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Péndulo físico}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Ecuación de movimiento y período del péndulo físico}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Momento de inercia}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Teorema de Steiner o de los ejes paralelos}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Relación entre $I_1$ y $\ell ^2$}{7}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Momento de inercia teórico de la barra}{8}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Período mínimo del péndulo físico}{8}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Propagación de incertidumbres}{9}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Materiales y equipos}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Elementos de montaje y soporte}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Instrumentos de medición y adquisición de datos}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Componentes del sistema}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Procedimiento experimental}{11}{section.5}%
+\contentsline {section}{\numberline {6}Datos experimentales}{12}{section.6}%
+\contentsline {section}{\numberline {7}Cálculos y resultados}{13}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Determinación del período de oscilación}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Período en función de la distancia}{13}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Determinación experimental del momento de inercia}{14}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Verificación del teorema de Steiner}{15}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Resultados de los demás conjuntos de datos}{15}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Discusión}{17}{section.8}%
+\contentsline {section}{\numberline {9}Conclusiones}{18}{section.9}%
+\contentsline {section}{\numberline {10}Bibliografía}{19}{section.10}%
+\contentsline {section}{\numberline {11}Anexos}{20}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Repositorio del laboratorio}{20}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Participación de los integrantes}{20}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Gráficas complementarias}{20}{subsection.11.3}%

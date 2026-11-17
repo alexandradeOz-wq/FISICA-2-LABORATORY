@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{3}{section.2}%
+\contentsline {section}{\numberline {3}Fundamentos teóricos}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tensión superficial y fuerzas intermoleculares}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Deducción de la ecuación para hallar la tensión superficial}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Propagación de incertidumbres}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Materiales y equipos}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Elementos de montaje y soporte}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Instrumentos de medición y adquisición de datos}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Componentes del sistema}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Procedimiento experimental}{8}{section.5}%
+\contentsline {section}{\numberline {6}Cálculos y resultados}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Agua con detergente}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Agua pura}{10}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Cálculo de incertidumbres por propagación de errores}{11}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Incertidumbre del agua pura}{12}{subsubsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.4}Incertidumbre para el agua con detergente}{12}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Análisis de resultados}{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Efecto del agente tensioactivo (Detergente)}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Discrepancia con el valor teórico del agua pura}{14}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Conclusiones}{15}{section.8}%
+\contentsline {section}{Referencias}{16}{Item.9}%
+\contentsline {section}{\numberline {9}Anexos}{17}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Repositorio del proyecto}{17}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Participación de los integrantes}{17}{subsection.9.2}%
